@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "342e1cb9-f2f5-4098-b094-12c19875c8e8": {
+      "ProjectGuid": "342e1cb9-f2f5-4098-b094-12c19875c8e8",
+      "DisplayName": "Pangrams",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
