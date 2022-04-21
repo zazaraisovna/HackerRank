@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f45e1127-ee18-446c-b41e-66a65c17a601": {
+      "ProjectGuid": "f45e1127-ee18-446c-b41e-66a65c17a601",
+      "DisplayName": "Flipping bits",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
