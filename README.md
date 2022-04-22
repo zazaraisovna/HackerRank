@@ -16,3 +16,4 @@ I've put each puzzle into its own folder because then I can give each its own RE
 - ### [Permuting Two Arrays](https://github.com/zazaraisovna/HackerRank/tree/main/Week1/Permuting%20Two%20Arrays)
 - ### [Subarray Division 1](https://github.com/zazaraisovna/HackerRank/tree/main/Week1/Subarray%20Division%201)
 - ### [XOR Strings 2](https://github.com/zazaraisovna/HackerRank/tree/main/Week1/XOR%20Strings%202)
+- ### [Sales by Match](https://github.com/zazaraisovna/HackerRank/tree/main/Week2/Sales%20by%20Match)
