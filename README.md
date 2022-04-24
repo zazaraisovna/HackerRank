@@ -19,3 +19,4 @@ I've put each puzzle into its own folder because then I can give each its own RE
 - ### [Sales by Match](https://github.com/zazaraisovna/HackerRank/tree/main/Week2/Sales%20by%20Match)
 - ### Zig Zag Sequence
 - ### [Drawing Book](https://github.com/zazaraisovna/HackerRank/tree/main/Week2/Drawing%20Book)
+- ### [Tower Breakers](https://github.com/zazaraisovna/HackerRank/tree/main/Week2/Tower%20Breakers)
