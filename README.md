@@ -21,3 +21,11 @@ I've put each puzzle into its own folder because then I can give each its own RE
 - ### [Drawing Book](https://github.com/zazaraisovna/HackerRank/tree/main/Week2/Drawing%20Book)
 - ### [Tower Breakers](https://github.com/zazaraisovna/HackerRank/tree/main/Week2/Tower%20Breakers)
 - ### [Caesar Cipher](https://github.com/zazaraisovna/HackerRank/tree/main/Week2/Caesar%20Cipher)
+- ### [Max Min](https://github.com/zazaraisovna/HackerRank/tree/main/Week2/MaxMin)
+- ### [Dynamic Array](https://github.com/zazaraisovna/HackerRank/tree/main/Week2/Dynamic%20Array)
+- ### Grid Challenge
+- ### Prime Dates
+- ### Sherlock and Array
+- ### Recursive Digit Sum
+- ### Counter game
+- ### Sum vs XOR
